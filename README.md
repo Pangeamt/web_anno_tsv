@@ -1,4 +1,4 @@
-# Inception Webanno tsv reader and writer
+# Inception Webanno tsv
 
 Read and write webanno tsv 3.2 files 
 
