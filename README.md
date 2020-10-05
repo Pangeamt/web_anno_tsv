@@ -1,6 +1,6 @@
-# Inception Web anno tsv reader and writer
+# Inception Webanno tsv reader and writer
 
-Read and write webanno tsv 3.2 files (from Inception annotation platform)
+Read and write webanno tsv 3.2 files 
 
 ## Install
 ```python
